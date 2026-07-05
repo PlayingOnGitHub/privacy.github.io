@@ -25,3 +25,29 @@ No person or entity may use, copy, modify, distribute, publish, sublicense, sell
 This software is provided for private development, testing, and authorized use only. No rights are granted except as expressly stated in writing by the owner.
 
 Unauthorized use of this software may result in legal action.
+
+
+Terms of Service
+Effective Date: [Insert Date]
+
+This application and all related content, including but not limited to source code, design, text, graphics, logos, features, and functionality, are the private and proprietary intellectual property of the developer.
+
+By accessing or using this application, you agree that:
+
+The application is provided only for private, internal, testing, and authorized use.
+
+No rights or licenses are granted except as expressly stated in writing by the developer.
+
+You may not copy, reproduce, modify, distribute, sell, sublicense, publish, reverse engineer, decompile, or otherwise exploit any part of the application without prior written permission.
+
+You may not access or use the application for any public, commercial, or competitive purpose without authorization.
+
+You may not remove, alter, or obscure any ownership, copyright, or proprietary notices.
+
+The developer may restrict, suspend, or terminate access to the application at any time, with or without notice, for any reason.
+
+The application is provided “as is” and “as available” for development and testing purposes only. The developer makes no warranties regarding availability, accuracy, performance, security, or fitness for a particular purpose.
+
+To the maximum extent permitted by law, the developer disclaims liability for any direct, indirect, incidental, consequential, or special damages arising from use of or inability to use the application.
+
+Any unauthorized use of this application may violate intellectual property, contract, and other applicable laws.
